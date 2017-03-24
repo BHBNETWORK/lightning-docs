@@ -1,6 +1,6 @@
 # Lightning Network installation
 
-* installation of a Lightning Network node from [source](https://github.com/ElementsProject/lightning).
+* installation of a Lightning Network node from [source](https://github.com/BHBNETWORK/lightning/tree/azure).
 
 ### Requirements:
 * Fullnode bitcoind running.
